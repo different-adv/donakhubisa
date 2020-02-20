@@ -1,9 +1,5 @@
-@import url("../plugins/font-awesome-4.7.0/css/font-awesome.min.css");
 @import url("animate.min.css");
 @import url("../../../node_modules/bootstrap/dist/css/bootstrap.min.css");
-@import url("../plugins/bootstrap-select.min.css");
-@import url("../plugins/jquery-ui/jquery-ui.css");
-@import url("../plugins/timePicker.css");
 @import url("https://fonts.googleapis.com/css?family=Roboto:400,500,700|Source+Sans+Pro:400,600,700");
 body {
   line-height: 1.4;
@@ -220,7 +216,7 @@ li {
 }
 
 .single-page-header {
-  background-image: url("../images/about/about-header.jpg");
+  /* background-image: url("../images/about/about-header.jpg"); */
   background-size: cover;
   padding: 140px 0 70px;
   text-align: center;
@@ -1869,7 +1865,7 @@ li {
   width: 100%;
   padding: 10px 20px;
   border: 1px solid #ececec;
-  background: #f4f4f4 url(../images/icons/icon-select.png) right center no-repeat;
+  /* background: #f4f4f4 url(../images/icons/icon-select.png) right center no-repeat; */
   cursor: pointer;
 }
 
@@ -2522,7 +2518,7 @@ li {
 .promo-video {
   position: relative;
   padding: 150px 0;
-  background: url("../images/background/promo-video.jpg");
+  /* background: url("../images/background/promo-video.jpg"); */
   background-size: cover;
   background-position: center center;
 }
