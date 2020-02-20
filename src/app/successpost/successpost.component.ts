@@ -9,7 +9,6 @@ export class SuccesspostComponent implements OnInit {
 
   constructor() { }
 
-  ngOnInit() {
-  }
+  ngOnInit() {}
 
 }
