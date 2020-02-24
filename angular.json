@@ -35,14 +35,22 @@
               "src/lib/css/icon.css",
               "src/lib/css/idangerous.swiper.css",
               "src/lib/css/loader.css",
-              "src/lib/css/style.css"
+              "src/lib/css/style.css",
+              "src/lib/css/bootstrap.css",
+              "src/lib/css/font-awesome.min.css",
+              "src/lib/css/jquery-ui.css",
+              "src/lib/css/linearicons.css",
+              "src/lib/css/magnific-popup.css",
+              "src/lib/css/main.css",
+              "src/lib/css/nice-select.css",
+              "src/lib/css/owl.carousel.css"
             ],
             "scripts": [
               "node_modules/bootstrap/dist/js/bootstrap.min.js",
               "node_modules/jquery/dist/jquery.min.js",
               "src/lib/js/bracket.js",
               "src/lib/js/script.js"
-            ]
+            ],
           },
           "configurations": {
             "production": {
