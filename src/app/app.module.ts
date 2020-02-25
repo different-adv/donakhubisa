@@ -27,6 +27,22 @@ import { ProfileBlogComponent } from './Profile/profile-blog/profile-blog.compon
 import { ProfileContactComponent } from './Profile/profile-contact/profile-contact.component';
 // import { ProfileComponent } from './profile/profile.component';
 import { SuccesspostComponent } from './successpost/successpost.component';
+import { AboutHeaderComponent } from './About/about-header/about-header.component';
+import { AboutBannerComponent } from './About/about-banner/about-banner.component';
+import { AboutBodyComponent } from './About/about-body/about-body.component';
+import { AboutFooterComponent } from './About/about-footer/about-footer.component';
+import { AboutNavBarComponent } from './About/about-nav-bar/about-nav-bar.component';
+import { AboutComponent } from './about/about.component';
+import { CauseNavbarComponent } from './Cause/cause-navbar/cause-navbar.component';
+import { CauseBannerComponent } from './Cause/cause-banner/cause-banner.component';
+import { CauseBodyComponent } from './Cause/cause-body/cause-body.component';
+import { CauseFooterComponent } from './Cause/cause-footer/cause-footer.component';
+import { ContactNavbarComponent } from './Contact/contact-navbar/contact-navbar.component';
+import { ContactBannerComponent } from './Contact/contact-banner/contact-banner.component';
+import { ContactBodyComponent } from './Contact/contact-body/contact-body.component';
+import { ContactFooterComponent } from './Contact/contact-footer/contact-footer.component';
+import { ContactComponent } from './contact/contact.component';
+import { CauseComponent } from './cause/cause.component';
 
 @NgModule({
   declarations: [
@@ -53,7 +69,23 @@ import { SuccesspostComponent } from './successpost/successpost.component';
     // ProfileComponent
 
     routingComponents,
-    SuccesspostComponent
+    SuccesspostComponent,
+    AboutHeaderComponent,
+    AboutBannerComponent,
+    AboutBodyComponent,
+    AboutFooterComponent,
+    AboutNavBarComponent,
+    AboutComponent,
+    CauseNavbarComponent,
+    CauseBannerComponent,
+    CauseBodyComponent,
+    CauseFooterComponent,
+    ContactNavbarComponent,
+    ContactBannerComponent,
+    ContactBodyComponent,
+    ContactFooterComponent,
+    ContactComponent,
+    CauseComponent
   ],
   imports: [
     BrowserModule,

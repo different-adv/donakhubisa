@@ -24,18 +24,7 @@
               "src/assets"
             ],
             "styles": [
-              // "src/styles.css",
-              // "node_modules/bootstrap/dist/css/bootstrap.min.css",
-              // "node_modules/font-awesome/css/font-awesome.css",
-              // "src/lib/css/sb-admin-2.min.css",
-              // "src/lib/css/animate.min.css",
-              // "src/lib/css/bracket.css",
-              // "src/lib/css/bracket.min.css",
-              // "src/lib/css/fluidbox.min.css",
-              // "src/lib/css/icon.css",
-              // "src/lib/css/idangerous.swiper.css",
-              // "src/lib/css/loader.css",
-              // "src/lib/css/style.css"
+             
               "src/assets/css/bootstrap/bootstrap-grid.css",
               "src/assets/css/bootstrap/bootstrap-reboot.css",
               "src/assets/css/animate.css",
@@ -48,44 +37,21 @@
               "src/assets/css/jquery.timepicker.css",
               "src/assets/css/magnific-popup.css",
               "src/assets/css/open-iconic-bootstrap.min.css",
-              // "src/assets/css/owl.carousel.min.css",
-              // "src/assets/css/owl.theme.default.min.css",
+              "src/assets/css/owl.carousel.min.css",
+              "src/assets/css/owl.theme.default.min.css",
               "src/assets/css/style.css",
               "src/assets/css/css/mixins/_text-hide.css",
 
-              // charity
+             
               "src/assets/CharityPosts Styles/css/style.css",
-              // "src/assets/CharityPosts Styles/css/bootstrap.min.css",
-              // "src/assets/CharityPosts Styles/css/font-awesome.min.css",
+            
               "src/assets/CharityPosts Styles/css/owl.carousel.css",
-              "src/assets/CharityPosts Styles/css/owl.theme.default.css"
+              "src/assets/CharityPosts Styles/css/owl.theme.default.css",
 
 
-              // //profile
-              // "src/assets/ProfileStyles/css/style1.css",
-              // "src/assets/ProfileStyles/css/icomoon.css",
-              // "src/assets/ProfileStyles/css/flexslider.css",
-              // "src/assets/ProfileStyles/css/animate1.css"
-              
-
-
-
-
-
-
-
-
+              "src/assets/css/map.css"
             ],
             "scripts": [
-              // "node_modules/bootstrap/dist/js/bootstrap.min.js",
-              // "node_modules/jquery/dist/jquery.min.js",
-              // "src/lib/js/bracket.js",
-              // "src/lib/js/script.js"
-
-              
-
-
-
               "src/assets/js/aos.js",
               "src/assets/js/bootstrap-datepicker.js",
               "src/assets/js/google-map.js",
@@ -99,34 +65,17 @@
               "src/assets/js/jquery.timepicker.min.js",
               "src/assets/js/jquery.waypoints.min.js",
               "src/assets/js/main.js",
-              // "src/assets/js/owl.carousel.min.js",
+              "src/assets/js/owl.carousel.min.js",
               "src/assets/js/popper.min.js",
               "src/assets/js/range.js",
               "src/assets/js/scrollax.min.js",
 
 
-              // charity
-              "src/assets/CharityPosts Styles/js/main.js"
+             
+              "src/assets/CharityPosts Styles/js/main.js",
 
-              // profile
-              // "src/assets/ProfileStyles/js/respond.min.js",
-              // "src/assets/ProfileStyles/js/modernizr-2.6.2.min.js",
-              // "src/assets/ProfileStyles/js/main1.js",
-              // "src/assets/ProfileStyles/js/jquery.flexslider-min.js"
-              
-
-
-
-
-
-
-
-
-
-
-
-
-
+             
+              "src/assets/js/map.js"
 
             ]
           },
