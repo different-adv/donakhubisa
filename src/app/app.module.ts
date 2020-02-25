@@ -26,6 +26,7 @@ import { ProfileWorkComponent } from './Profile/profile-work/profile-work.compon
 import { ProfileBlogComponent } from './Profile/profile-blog/profile-blog.component';
 import { ProfileContactComponent } from './Profile/profile-contact/profile-contact.component';
 // import { ProfileComponent } from './profile/profile.component';
+import { SuccesspostComponent } from './successpost/successpost.component';
 
 @NgModule({
   declarations: [
@@ -51,7 +52,8 @@ import { ProfileContactComponent } from './Profile/profile-contact/profile-conta
     ProfileContactComponent,
     // ProfileComponent
 
-    routingComponents
+    routingComponents,
+    SuccesspostComponent
   ],
   imports: [
     BrowserModule,
